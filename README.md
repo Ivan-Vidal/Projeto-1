@@ -22,6 +22,8 @@
  - Javascript;
  
  - JSON;
+ 
+ - XMLhttprequest;
 
 ### Descrição do projeto:
 
