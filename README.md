@@ -30,4 +30,4 @@
 A criação de uma API REST para cadastrar um login e senha, e após o cadastro, realizar o login.
 
 
-# Desenvolvido com carinho, por Ivan Vidal
+### Obrigado por chegar até aqui
